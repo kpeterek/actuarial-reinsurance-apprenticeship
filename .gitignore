@@ -3,7 +3,7 @@
 # Ground truth is regenerable from the seed; exercise solutions live only in the local OneDrive copy.
 solutions/*
 !solutions/README.md
-# The build plan describes the planted data features, so it stays local too.
+# The build plan contains grading material, so it stays local too.
 BUILD_PLAN.md
 
 # --- Built artifacts ---
