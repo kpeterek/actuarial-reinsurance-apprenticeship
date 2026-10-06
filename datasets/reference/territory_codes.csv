@@ -1,0 +1,23 @@
+territory,state,territory_name,region_type
+TX01,TX,Houston Metro,Urban
+TX02,TX,Gulf Coast,Coastal
+TX03,TX,Dallas-Fort Worth,Urban
+TX04,TX,Central Texas,Suburban
+TX05,TX,West Texas,Rural
+TX06,TX,East Texas,Rural
+LA01,LA,New Orleans Metro,Coastal
+LA02,LA,Baton Rouge-Acadiana,Suburban
+LA03,LA,North Louisiana,Rural
+OK01,OK,Oklahoma City,Urban
+OK02,OK,Tulsa,Urban
+OK03,OK,Rural Oklahoma,Rural
+AR01,AR,Little Rock,Urban
+AR02,AR,Northwest Arkansas,Suburban
+AR03,AR,Rural Arkansas,Rural
+NM01,NM,Albuquerque,Urban
+NM02,NM,Southern New Mexico,Suburban
+NM03,NM,Rural New Mexico,Rural
+CO01,CO,Denver Metro,Urban
+CO02,CO,Colorado Springs-Pueblo,Suburban
+CO03,CO,Northern Front Range,Suburban
+CO04,CO,Western Slope,Rural

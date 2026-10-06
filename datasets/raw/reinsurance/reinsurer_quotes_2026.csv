@@ -1,0 +1,91 @@
+quote_id,proposal_id,component_id,reinsurer,quote_type,quoted_premium,quoted_rate_on_line_pct,quoted_rate_pct_of_subject_premium,quoted_ceding_commission_pct,terms_notes
+Q0001,P0,CXL-1,Ashgrove Re Ltd,PREMIUM,7001000,,3.371,,Indicative; subject to final underwriting information
+Q0002,P0,CXL-1,Kestrel Point Reinsurance SE,PREMIUM,8081000,,3.891,,Indicative; subject to final underwriting information
+Q0003,P0,CXL-1,Tamarack Reinsurance Company,PREMIUM,9212000,,4.436,,Indicative; subject to final underwriting information
+Q0004,P0,CXL-2,Ashgrove Re Ltd,PREMIUM,125000,2.50,,,Indicative; subject to final underwriting information
+Q0005,P0,CXL-2,Kestrel Point Reinsurance SE,PREMIUM,200000,4.00,,,Indicative; subject to final underwriting information
+Q0006,P0,CXL-2,Tamarack Reinsurance Company,PREMIUM,300000,6.00,,,Indicative; subject to final underwriting information
+Q0007,P0,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0008,P0,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0009,P0,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0010,P0,CAT-1,Ashgrove Re Ltd,PREMIUM,5593000,7.46,,,Indicative; subject to final underwriting information
+Q0011,P0,CAT-1,Kestrel Point Reinsurance SE,PREMIUM,7014000,9.35,,,Indicative; subject to final underwriting information
+Q0012,P0,CAT-1,Tamarack Reinsurance Company,PREMIUM,9154000,12.21,,,Indicative; subject to final underwriting information
+Q0013,P1,CXL-1A,Ashgrove Re Ltd,PREMIUM,1798000,,0.866,,Indicative; subject to final underwriting information
+Q0014,P1,CXL-1A,Kestrel Point Reinsurance SE,PREMIUM,2197000,,1.058,,Indicative; subject to final underwriting information
+Q0015,P1,CXL-1A,Tamarack Reinsurance Company,PREMIUM,2584000,,1.244,,Indicative; subject to final underwriting information
+Q0016,P1,CXL-2,Ashgrove Re Ltd,PREMIUM,125000,2.50,,,Indicative; subject to final underwriting information
+Q0017,P1,CXL-2,Kestrel Point Reinsurance SE,PREMIUM,200000,4.00,,,Indicative; subject to final underwriting information
+Q0018,P1,CXL-2,Tamarack Reinsurance Company,PREMIUM,300000,6.00,,,Indicative; subject to final underwriting information
+Q0019,P1,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0020,P1,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0021,P1,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0022,P1,CAT-1,Ashgrove Re Ltd,PREMIUM,5593000,7.46,,,Indicative; subject to final underwriting information
+Q0023,P1,CAT-1,Kestrel Point Reinsurance SE,PREMIUM,7014000,9.35,,,Indicative; subject to final underwriting information
+Q0024,P1,CAT-1,Tamarack Reinsurance Company,PREMIUM,9154000,12.21,,,Indicative; subject to final underwriting information
+Q0025,P2,CXL-S,Ashgrove Re Ltd,PREMIUM,6759000,,3.255,,Indicative; subject to final underwriting information
+Q0026,P2,CXL-S,Kestrel Point Reinsurance SE,PREMIUM,7962000,,3.834,,Indicative; subject to final underwriting information
+Q0027,P2,CXL-S,Tamarack Reinsurance Company,PREMIUM,9901000,,4.768,,Indicative; subject to final underwriting information
+Q0028,P2,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0029,P2,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0030,P2,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0031,P2,CAT-1,Ashgrove Re Ltd,PREMIUM,5593000,7.46,,,Indicative; subject to final underwriting information
+Q0032,P2,CAT-1,Kestrel Point Reinsurance SE,PREMIUM,7014000,9.35,,,Indicative; subject to final underwriting information
+Q0033,P2,CAT-1,Tamarack Reinsurance Company,PREMIUM,9154000,12.21,,,Indicative; subject to final underwriting information
+Q0034,P3,CXL-1,Ashgrove Re Ltd,PREMIUM,7001000,,3.371,,Indicative; subject to final underwriting information
+Q0035,P3,CXL-1,Kestrel Point Reinsurance SE,PREMIUM,8081000,,3.891,,Indicative; subject to final underwriting information
+Q0036,P3,CXL-1,Tamarack Reinsurance Company,PREMIUM,9212000,,4.436,,Indicative; subject to final underwriting information
+Q0037,P3,CXL-2,Ashgrove Re Ltd,PREMIUM,125000,2.50,,,Indicative; subject to final underwriting information
+Q0038,P3,CXL-2,Kestrel Point Reinsurance SE,PREMIUM,200000,4.00,,,Indicative; subject to final underwriting information
+Q0039,P3,CXL-2,Tamarack Reinsurance Company,PREMIUM,300000,6.00,,,Indicative; subject to final underwriting information
+Q0040,P3,SL-CA,Ashgrove Re Ltd,PREMIUM,2478000,,2.498,,Indicative; subject to final underwriting information
+Q0041,P3,SL-CA,Kestrel Point Reinsurance SE,PREMIUM,3091000,,3.116,,Indicative; subject to final underwriting information
+Q0042,P3,SL-CA,Tamarack Reinsurance Company,PREMIUM,4061000,,4.094,,Indicative; subject to final underwriting information
+Q0043,P3,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0044,P3,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0045,P3,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0046,P3,CAT-1,Ashgrove Re Ltd,PREMIUM,5593000,7.46,,,Indicative; subject to final underwriting information
+Q0047,P3,CAT-1,Kestrel Point Reinsurance SE,PREMIUM,7014000,9.35,,,Indicative; subject to final underwriting information
+Q0048,P3,CAT-1,Tamarack Reinsurance Company,PREMIUM,9154000,12.21,,,Indicative; subject to final underwriting information
+Q0049,P4,QS-CA25,Ashgrove Re Ltd,CEDING_COMMISSION,,,,31.1,"Indicative; flat commission, no profit commission"
+Q0050,P4,QS-CA25,Kestrel Point Reinsurance SE,CEDING_COMMISSION,,,,30.0,"Indicative; flat commission, no profit commission"
+Q0051,P4,QS-CA25,Tamarack Reinsurance Company,CEDING_COMMISSION,,,,28.7,"Indicative; flat commission, no profit commission"
+Q0052,P4,CXL-1,Ashgrove Re Ltd,PREMIUM,7001000,,3.371,,Indicative; subject to final underwriting information
+Q0053,P4,CXL-1,Kestrel Point Reinsurance SE,PREMIUM,8081000,,3.891,,Indicative; subject to final underwriting information
+Q0054,P4,CXL-1,Tamarack Reinsurance Company,PREMIUM,9212000,,4.436,,Indicative; subject to final underwriting information
+Q0055,P4,CXL-2,Ashgrove Re Ltd,PREMIUM,125000,2.50,,,Indicative; subject to final underwriting information
+Q0056,P4,CXL-2,Kestrel Point Reinsurance SE,PREMIUM,200000,4.00,,,Indicative; subject to final underwriting information
+Q0057,P4,CXL-2,Tamarack Reinsurance Company,PREMIUM,300000,6.00,,,Indicative; subject to final underwriting information
+Q0058,P4,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0059,P4,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0060,P4,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0061,P4,CAT-1,Ashgrove Re Ltd,PREMIUM,5593000,7.46,,,Indicative; subject to final underwriting information
+Q0062,P4,CAT-1,Kestrel Point Reinsurance SE,PREMIUM,7014000,9.35,,,Indicative; subject to final underwriting information
+Q0063,P4,CAT-1,Tamarack Reinsurance Company,PREMIUM,9154000,12.21,,,Indicative; subject to final underwriting information
+Q0064,P5,CXL-1,Ashgrove Re Ltd,PREMIUM,7001000,,3.371,,Indicative; subject to final underwriting information
+Q0065,P5,CXL-1,Kestrel Point Reinsurance SE,PREMIUM,8081000,,3.891,,Indicative; subject to final underwriting information
+Q0066,P5,CXL-1,Tamarack Reinsurance Company,PREMIUM,9212000,,4.436,,Indicative; subject to final underwriting information
+Q0067,P5,CXL-2,Ashgrove Re Ltd,PREMIUM,125000,2.50,,,Indicative; subject to final underwriting information
+Q0068,P5,CXL-2,Kestrel Point Reinsurance SE,PREMIUM,200000,4.00,,,Indicative; subject to final underwriting information
+Q0069,P5,CXL-2,Tamarack Reinsurance Company,PREMIUM,300000,6.00,,,Indicative; subject to final underwriting information
+Q0070,P5,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0071,P5,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0072,P5,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0073,P5,CAT-2,Ashgrove Re Ltd,PREMIUM,4026000,4.74,,,Indicative; subject to final underwriting information
+Q0074,P5,CAT-2,Kestrel Point Reinsurance SE,PREMIUM,5181000,6.10,,,Indicative; subject to final underwriting information
+Q0075,P5,CAT-2,Tamarack Reinsurance Company,PREMIUM,7157000,8.42,,,Indicative; subject to final underwriting information
+Q0076,P6,CXL-1,Ashgrove Re Ltd,PREMIUM,7001000,,3.371,,Indicative; subject to final underwriting information
+Q0077,P6,CXL-1,Kestrel Point Reinsurance SE,PREMIUM,8081000,,3.891,,Indicative; subject to final underwriting information
+Q0078,P6,CXL-1,Tamarack Reinsurance Company,PREMIUM,9212000,,4.436,,Indicative; subject to final underwriting information
+Q0079,P6,CXL-2,Ashgrove Re Ltd,PREMIUM,125000,2.50,,,Indicative; subject to final underwriting information
+Q0080,P6,CXL-2,Kestrel Point Reinsurance SE,PREMIUM,200000,4.00,,,Indicative; subject to final underwriting information
+Q0081,P6,CXL-2,Tamarack Reinsurance Company,PREMIUM,300000,6.00,,,Indicative; subject to final underwriting information
+Q0082,P6,PRX-1,Ashgrove Re Ltd,PREMIUM,1724000,,1.801,,Indicative; subject to final underwriting information
+Q0083,P6,PRX-1,Kestrel Point Reinsurance SE,PREMIUM,2061000,,2.153,,Indicative; subject to final underwriting information
+Q0084,P6,PRX-1,Tamarack Reinsurance Company,PREMIUM,2289000,,2.391,,Indicative; subject to final underwriting information
+Q0085,P6,CAT-1,Ashgrove Re Ltd,PREMIUM,5593000,7.46,,,Indicative; subject to final underwriting information
+Q0086,P6,CAT-1,Kestrel Point Reinsurance SE,PREMIUM,7014000,9.35,,,Indicative; subject to final underwriting information
+Q0087,P6,CAT-1,Tamarack Reinsurance Company,PREMIUM,9154000,12.21,,,Indicative; subject to final underwriting information
+Q0088,P6,AGG-CAT,Ashgrove Re Ltd,PREMIUM,656000,3.28,,,Indicative; subject to final underwriting information
+Q0089,P6,AGG-CAT,Kestrel Point Reinsurance SE,PREMIUM,815000,4.08,,,Indicative; subject to final underwriting information
+Q0090,P6,AGG-CAT,Tamarack Reinsurance Company,PREMIUM,1084000,5.42,,,Indicative; subject to final underwriting information

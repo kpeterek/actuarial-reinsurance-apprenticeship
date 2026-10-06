@@ -1,0 +1,31 @@
+cause_code,line,description,peril_group
+AU-COL,CA,Collision with another vehicle,Auto liability
+AU-REA,CA,Rear-end collision,Auto liability
+AU-BAK,CA,Backing or parking incident,Auto liability
+AU-ROL,CA,Rollover or jackknife,Auto liability
+AU-PED,CA,Pedestrian or cyclist struck,Auto liability
+AU-CRG,CA,Cargo or load shift,Auto liability
+AU-OTH,CA,Other auto liability,Auto liability
+AU-CMP,CA,"Comprehensive - glass, theft, weather",Auto physical damage
+AU-CPD,CA,Collision damage to insured vehicle,Auto physical damage
+GL-SLF,GL,"Slip, trip or fall on premises",Premises liability
+GL-PRM,GL,Other premises injury,Premises liability
+GL-PRD,GL,Products liability,Products liability
+GL-COP,GL,Completed operations,Products liability
+GL-PDM,GL,Damage to third-party property,Property damage liability
+GL-PAI,GL,Personal and advertising injury,Other liability
+PR-FIR,CP,Fire or smoke,Fire
+PR-WTR,CP,Water damage - non-weather,Water
+PR-WND,CP,Windstorm,Weather
+PR-HAL,CP,Hail,Weather
+PR-FRZ,CP,Freeze and frozen pipes,Weather
+PR-THF,CP,Theft or burglary,Crime
+PR-VAN,CP,Vandalism,Crime
+PR-EQP,CP,Equipment or mechanical breakdown,Other property
+PR-OTH,CP,Other property damage,Other property
+WC-STR,WC,Strain or sprain,Injury
+WC-FAL,WC,Fall or slip,Injury
+WC-CUT,WC,"Cut, puncture or laceration",Injury
+WC-STK,WC,Struck by or against object,Injury
+WC-MVA,WC,Motor vehicle accident,Injury
+WC-REP,WC,Repetitive motion,Injury

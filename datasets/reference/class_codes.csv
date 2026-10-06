@@ -1,0 +1,24 @@
+class_code,line,class_description,exposure_base
+CA-TRK,CA,Long-haul trucking,units
+CA-LCL,CA,Local delivery and cartage,units
+CA-CON,CA,Contractor vehicles,units
+CA-SVC,CA,Service and sales vehicles,units
+CA-PAS,CA,Passenger transport,units
+GL-CON,GL,Contractors,revenue_000
+GL-MFG,GL,Manufacturers and products,revenue_000
+GL-RET,GL,Retail stores,revenue_000
+GL-RES,GL,Restaurants,revenue_000
+GL-OFF,GL,Offices and professional services,revenue_000
+GL-HAB,GL,Habitational and apartments,revenue_000
+CP-OFF,CP,Office buildings,tiv
+CP-RET,CP,Retail buildings,tiv
+CP-WHS,CP,Warehouses,tiv
+CP-MFG,CP,Light manufacturing,tiv
+CP-RES,CP,Restaurants,tiv
+CP-APT,CP,Apartment buildings,tiv
+WC-8810,WC,Clerical office employees,payroll_00
+WC-5645,WC,Residential carpentry,payroll_00
+WC-7219,WC,Trucking operations,payroll_00
+WC-9079,WC,Restaurants,payroll_00
+WC-3632,WC,Machine shops,payroll_00
+WC-8017,WC,Retail stores,payroll_00

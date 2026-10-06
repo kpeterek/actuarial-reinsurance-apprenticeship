@@ -1,0 +1,31 @@
+proposal_id,proposal_name,component_id,treaty_type,lines_covered,attachment,occurrence_limit,aggregate_limit,aggregate_attachment,reinstatements,reinstatement_premium_pct,ceded_pct,ceding_commission_pct,stop_loss_attachment_lr_pct,stop_loss_limit_lr_pts,subject_premium_estimate_2026,notes
+P0,Renew 2025 program as expiring,CXL-1,XOL-CASUALTY,CA;GL;WC,1000000,4000000,,,Unlimited,0.0,,,,,207659000,
+P0,Renew 2025 program as expiring,CXL-2,XOL-CASUALTY,CA;GL;WC,5000000,5000000,10000000,,1,100.0,,,,,207659000,
+P0,Renew 2025 program as expiring,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P0,Renew 2025 program as expiring,CAT-1,XOL-CAT,CP,15000000,75000000,150000000,,1,100.0,,,,,95725000,
+P1,Raise casualty first-layer retention to $2M,CXL-1A,XOL-CASUALTY,CA;GL;WC,2000000,3000000,,,Unlimited,0.0,,,,,207659000,
+P1,Raise casualty first-layer retention to $2M,CXL-2,XOL-CASUALTY,CA;GL;WC,5000000,5000000,10000000,,1,100.0,,,,,207659000,
+P1,Raise casualty first-layer retention to $2M,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P1,Raise casualty first-layer retention to $2M,CAT-1,XOL-CAT,CP,15000000,75000000,150000000,,1,100.0,,,,,95725000,
+P2,Single casualty layer $9M xs $1M,CXL-S,XOL-CASUALTY,CA;GL;WC,1000000,9000000,18000000,,1,100.0,,,,,207659000,Replaces both casualty layers; one reinstatement at 100%.
+P2,Single casualty layer $9M xs $1M,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P2,Single casualty layer $9M xs $1M,CAT-1,XOL-CAT,CP,15000000,75000000,150000000,,1,100.0,,,,,95725000,
+P3,Expiring program plus CA aggregate stop loss,CXL-1,XOL-CASUALTY,CA;GL;WC,1000000,4000000,,,Unlimited,0.0,,,,,207659000,
+P3,Expiring program plus CA aggregate stop loss,CXL-2,XOL-CASUALTY,CA;GL;WC,5000000,5000000,10000000,,1,100.0,,,,,207659000,
+P3,Expiring program plus CA aggregate stop loss,SL-CA,AGG-STOP-LOSS,CA,,,,,0,,,,78.0,15.0,99194000,"Covers 15 loss ratio points in excess of a 78% CA loss ratio (loss and ALAE, net of casualty excess recoveries), annual aggregate."
+P3,Expiring program plus CA aggregate stop loss,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P3,Expiring program plus CA aggregate stop loss,CAT-1,XOL-CAT,CP,15000000,75000000,150000000,,1,100.0,,,,,95725000,
+P4,Expiring program plus 25% CA quota share,QS-CA25,QS,CA,,,,,,,25.0,30.0,,,99194000,25% of CA premium and losses net of casualty excess recoveries; flat ceding commission.
+P4,Expiring program plus 25% CA quota share,CXL-1,XOL-CASUALTY,CA;GL;WC,1000000,4000000,,,Unlimited,0.0,,,,,207659000,
+P4,Expiring program plus 25% CA quota share,CXL-2,XOL-CASUALTY,CA;GL;WC,5000000,5000000,10000000,,1,100.0,,,,,207659000,
+P4,Expiring program plus 25% CA quota share,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P4,Expiring program plus 25% CA quota share,CAT-1,XOL-CAT,CP,15000000,75000000,150000000,,1,100.0,,,,,95725000,
+P5,Cat layer moved to $85M xs $20M,CXL-1,XOL-CASUALTY,CA;GL;WC,1000000,4000000,,,Unlimited,0.0,,,,,207659000,
+P5,Cat layer moved to $85M xs $20M,CXL-2,XOL-CASUALTY,CA;GL;WC,5000000,5000000,10000000,,1,100.0,,,,,207659000,
+P5,Cat layer moved to $85M xs $20M,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P5,Cat layer moved to $85M xs $20M,CAT-2,XOL-CAT,CP,20000000,85000000,170000000,,1,100.0,,,,,95725000,
+P6,Expiring cat layer plus annual aggregate cat cover,CXL-1,XOL-CASUALTY,CA;GL;WC,1000000,4000000,,,Unlimited,0.0,,,,,207659000,
+P6,Expiring cat layer plus annual aggregate cat cover,CXL-2,XOL-CASUALTY,CA;GL;WC,5000000,5000000,10000000,,1,100.0,,,,,207659000,
+P6,Expiring cat layer plus annual aggregate cat cover,PRX-1,XOL-RISK,CP,1000000,9000000,27000000,,2,0.0,,,,,95725000,
+P6,Expiring cat layer plus annual aggregate cat cover,CAT-1,XOL-CAT,CP,15000000,75000000,150000000,,1,100.0,,,,,95725000,
+P6,Expiring cat layer plus annual aggregate cat cover,AGG-CAT,AGG-CAT,CP,,20000000,20000000,20000000,0,,,,,,95725000,Annual aggregate of catastrophe event losses retained below the cat XOL attachment (each event capped at $15M; events under $1M excluded); $20M xs $20M.

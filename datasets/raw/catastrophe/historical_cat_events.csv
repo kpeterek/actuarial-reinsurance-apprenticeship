@@ -1,0 +1,11 @@
+cat_event_id,name,peril,start_date,end_date,states,region_keys
+CAT-2017-01,Hurricane Hollis,Hurricane,2017-08-25,2017-08-31,TX,TX-COAST;TX-GULF;TX-EAST;TX-CENTRAL
+CAT-2019-02,Plains Hail Outbreak,Severe Convective Storm,2019-05-18,2019-05-21,TX;OK,TX-NORTH;OK-CENTRAL;OK-EAST
+CAT-2020-03,Hurricane Corinne,Hurricane,2020-08-26,2020-08-29,LA;TX,LA-COAST;LA-SOUTH;TX-COAST;LA-NORTH
+CAT-2021-04,Winter Storm Ulric,Winter Storm,2021-02-13,2021-02-20,TX;OK;LA,TX-NORTH;TX-CENTRAL;TX-GULF;TX-COAST;TX-EAST;TX-WEST;OK-CENTRAL;LA-NORTH
+CAT-2023-05,Front Range and North Texas Hail,Severe Convective Storm,2023-06-08,2023-06-13,TX;CO,CO-FRONT;TX-NORTH
+CAT-2016-11,April North Texas Hail,Severe Convective Storm,2016-04-11,2016-04-12,TX,TX-NORTH
+CAT-2018-12,Oklahoma Wind and Hail,Severe Convective Storm,2018-06-02,2018-06-03,OK,OK-CENTRAL;OK-EAST
+CAT-2022-13,Central Texas Hail,Severe Convective Storm,2022-05-24,2022-05-25,TX,TX-CENTRAL;TX-NORTH
+CAT-2024-14,Denver Hail,Severe Convective Storm,2024-07-15,2024-07-16,CO,CO-FRONT
+CAT-2025-15,Arkansas Valley Storms,Severe Convective Storm,2025-04-02,2025-04-04,AR;OK,AR;OK-EAST
