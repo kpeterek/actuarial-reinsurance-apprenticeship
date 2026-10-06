@@ -1,0 +1,10 @@
+* text=auto
+*.csv text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.sql text eol=lf
+*.xlsx binary
+*.xlsm binary
+*.pbix binary
+*.png binary
+*.sqlite binary

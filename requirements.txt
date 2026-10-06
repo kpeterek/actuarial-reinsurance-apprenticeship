@@ -1,0 +1,33 @@
+# P&C Actuarial & Reinsurance Apprenticeship — Python environment
+# Virtualenv lives OUTSIDE OneDrive: C:\Users\kpeterek\venvs\actuary
+# Install:  python -m venv C:\Users\kpeterek\venvs\actuary
+#           C:\Users\kpeterek\venvs\actuary\Scripts\python.exe -m pip install -r requirements.txt
+
+# Core analysis
+pandas>=3.0
+numpy>=2.0
+scipy
+statsmodels
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Excel I/O
+openpyxl
+xlsxwriter
+
+# Databases
+sqlalchemy
+
+# Notebooks
+jupyter
+ipykernel
+
+# Data generator
+pyyaml
+faker
+
+# Optional (not required; triangles are built by hand in this program)
+# chainladder

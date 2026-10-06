@@ -1,0 +1,34 @@
+# --- Grading answer keys: NEVER pushed (this GitHub repo is public) ---
+# solutions/ holds exercise solutions and the synthetic data's ground truth.
+# Ground truth is regenerable from the seed; exercise solutions live only in the local OneDrive copy.
+solutions/*
+!solutions/README.md
+# The build plan describes the planted data features, so it stays local too.
+BUILD_PLAN.md
+
+# --- Built artifacts ---
+*.sqlite
+*.sqlite-journal
+*.db
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# --- Office lock/temp files ---
+~$*
+*.tmp
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Power BI cache ---
+*.pbix.bak
