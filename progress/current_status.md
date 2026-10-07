@@ -7,12 +7,12 @@ _Last updated: 2026-10-07. Claude updates this file at every state change; forma
 | Field | Value |
 |---|---|
 | Module | 01 Insurance Foundations |
-| Concept | 2 of 8 — The policy contract |
-| State | Teaching — concept complete (concept 1 done; concept 2 not yet taught) |
-| Next action | Teach concept 2 using the Dallas trucking policy: add a limit and a deductible, walk two or three crash amounts through it. One single-part question. |
+| Concept | 1 of 8 — The insurer's business model |
+| State | Teaching — in progress (concept 1 open until the apprentice says it is settled) |
+| Next action | Wait for the apprentice. Answer any concept 1 question per reference/teaching_protocol.md. When they say concept 1 is settled, mark it complete and teach concept 2 with the same Dallas trucking policy (limit and deductible): explain, simple example, questions, application, then at most one mastery check. |
 | Pending exercise | — |
 | Pending question | — |
-| Teaching notes | Concept 1 took several clarification rounds. The apprentice understood the one-policy cash walkthrough; abstract two-company scenarios and stacked questions did not work. Last answer: a $20K under-settlement "stays as float and earns income" — right that the cash stays, corrected that it is no longer owed, so it becomes profit and goes to surplus. "Ultimate" was mentioned once and not taught; teach it properly in concept 4. |
+| Teaching notes | Concept 1 took several clarification rounds. The apprentice understood the one-policy cash walkthrough; abstract two-company scenarios and stacked questions did not work. Last answer: a $20K under-settlement "stays as float and earns income" — right that the cash stays, corrected that it is no longer owed, so it becomes profit and goes to surplus. "Ultimate" was mentioned once and not taught; teach it properly in concept 4. On 2026-10-07 the apprentice issued the teaching protocol (reference/teaching_protocol.md); concept 1 notes were rewritten for accounting precision and the false "never more than $1 of reserve per $1 of premium" statement was corrected. |
 
 ## Lessons completed
 
