@@ -1,17 +1,18 @@
 # Current Status
 
-_Last updated: 2026-10-06 (initial build). Claude updates this file at every state change; formats are defined in `CLAUDE.md` §12._
+_Last updated: 2026-10-07. Claude updates this file at every state change; formats are defined in `CLAUDE.md` §12._
 
 ## Current module / concept
 
 | Field | Value |
 |---|---|
 | Module | 01 Insurance Foundations |
-| Concept | 1 of 8 — The insurer's business model |
-| State | Teaching — awaiting comprehension answer |
-| Next action | Evaluate the answer to the concept 1 question, then teach concept 2 |
+| Concept | 2 of 8 — The policy contract |
+| State | Teaching — concept complete (concept 1 done; concept 2 not yet taught) |
+| Next action | Teach concept 2 using the Dallas trucking policy: add a limit and a deductible, walk two or three crash amounts through it. One single-part question. |
 | Pending exercise | — |
-| Pending question | Harbor Property vs Longview Casualty: same 98% combined ratio, different reserve levels. Which is the better business, and what must you believe for that to hold? |
+| Pending question | — |
+| Teaching notes | Concept 1 took several clarification rounds. The apprentice understood the one-policy cash walkthrough; abstract two-company scenarios and stacked questions did not work. Last answer: a $20K under-settlement "stays as float and earns income" — right that the cash stays, corrected that it is no longer owed, so it becomes profit and goes to surplus. "Ultimate" was mentioned once and not taught; teach it properly in concept 4. |
 
 ## Lessons completed
 

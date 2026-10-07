@@ -6,7 +6,7 @@ These are your running notes. Each concept is added here after we cover it in se
 
 | # | Concept | Status |
 |---|---|---|
-| 1 | The insurer's business model | In progress |
+| 1 | The insurer's business model | Complete |
 | 2 | The policy contract | Not started |
 | 3 | Premium accounting | Not started |
 | 4 | The claim lifecycle and loss accounting | Not started |
@@ -66,3 +66,37 @@ Think of an insurer as a business funded by prepaid revenue. The underwriting ma
 - Comparing combined ratios across lines with very different payout speeds as if they were equivalent.
 - Treating a reported combined ratio as a fact rather than an estimate.
 - Computing investment income on premium instead of on the reserves and surplus that are actually invested.
+
+### Worked example: one trucking policy, in cash
+
+A Dallas trucking company buys a year of auto liability insurance on January 1, 2025.
+
+| Date | What happens | Cash in the insurer's bank |
+|---|---|---|
+| Jan 2025 | Premium paid | +$100,000 → $100,000 |
+| Jan 2025 | Agent commission and the insurer's own costs paid | −$18,000 → $82,000 |
+| Mar 2025 | A truck rear-ends a car and the driver sues. The adjuster estimates the case will settle for $80,000 and records that on the books. No cash moves. | $82,000 |
+| 2025–2028 | The lawsuit runs. The cash sits in bonds earning 4%. | +≈$10,000 interest |
+| Mar 2028 | The case settles and is paid | −(settlement amount) |
+
+What the example shows:
+
+- **The reserve is a number on the books; the cash is real.** The $80,000 is the insurer's estimate of what it still owes. The cash behind it came from the premium. Interest is earned on the cash actually held, never on the estimate.
+- **If the case settles for more than the estimate** (say $88,000), the extra $8,000 comes out of the insurer's own money, its surplus.
+- **If it settles for less** (say $60,000), the $20,000 is no longer owed to anyone. It becomes profit and is added to surplus.
+- **The estimate does not change the cash paid.** It changes how much profit the insurer reports while the case is still open.
+
+### Reserves vs one year's premium
+
+- The reserve is a **balance**: what is still owed, at one moment, on claims that have already happened, across every year with claims still open.
+- Annual premium and annual claim payments are **flows** for one year.
+- A slow-paying insurer can owe 2–3 years' worth of premium at once while paying out only about one year's worth each year. CRE version: the reserve is the loan balance, and the yearly claim payments are the debt service.
+- No premium dollar ever requires more than a dollar of reserve. The balance is big because several years of unpaid claims are stacked on top of each other.
+
+### Surplus
+
+**Surplus** is the insurer's own money: what it owns minus what it owes. It is the equity in the capital stack, built up from past profits. It absorbs the cost when claims settle for more than estimated.
+
+### Harbor vs Longview, resolved
+
+On the numbers reported, Longview earns far more investment income, about 10% of premium against Harbor's 1.6%, because it holds claim money for years. That advantage is only real if Longview's estimates of what it owes are right. A slow-paying insurer has a large balance of estimated claims, so an estimating error of a few percent can cost more than a year of investment income. Harbor's results are smaller but much closer to certain.

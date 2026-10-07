@@ -40,6 +40,8 @@ Triggered by "Resume my apprenticeship" or the first message of any session.
 
 **Hard rule: one concept, one question, stop.** Never send more than one concept per turn. Never dump a lesson.
 
+**Vocabulary discipline:** use only terms already taught. If a new term is unavoidable, define it in one plain sentence or leave it out. When the apprentice is confused, answer only the point asked, with the smallest example that works, and ask one single-part question. Never stack multi-part questions during clarification.
+
 - **Part A — Teach one concept** in 150–400 words. Across the concept, cover the spec §3 Step 1 checklist: what it is, why insurers/reinsurers care, where it sits in the workflow, who does it, what decision depends on it, terms, formulas with the reasoning behind them, intuition, common mistakes, links to other concepts.
 - **Part B — Ask one short comprehension question** that requires judgment, not recall. Then stop and wait.
 - **Part C — Evaluate the answer.** Correct misunderstandings directly. If the error matters, ask one follow-up before moving on.
